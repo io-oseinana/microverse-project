@@ -52,7 +52,7 @@ ul a {
   color: #fff;
 }
 
-/* mobile */
+
 
 
 #projects {
@@ -64,6 +64,7 @@ ul a {
   justify-content: center;
     background: white;
 }
+/* mobile */
 @media screen and (min-width: 570px) {
     #projects {
         grid-template-columns: repeat(2, 350px);
